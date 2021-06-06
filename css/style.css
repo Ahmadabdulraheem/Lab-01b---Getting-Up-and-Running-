@@ -1,0 +1,43 @@
+body {
+    background:rosybrown;
+  }
+  header img {
+    width: 100px;
+    background:none;
+
+  }
+  
+  header nav {
+    float: right;
+  }
+  
+  header nav ul {
+    list-style: none;
+  }
+  
+  header nav ul li {
+    float: right;
+    padding: 10px;
+  }
+  
+  main img {
+    width: 100%;
+  }
+  
+  main h1 {
+    text-align: center;
+    color: #222;
+  }
+  
+  main p {
+    line-height: 1.5;
+   color: aqua;
+   background-color: chocolate;
+  }
+  
+  footer {
+    text-align: center;
+    background: #222;
+    color: #fff;
+    line-height: 50px
+  }
