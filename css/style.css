@@ -31,10 +31,27 @@ body {
   
   main p {
     line-height: 1.5;
-   color: aqua;
-   background-color: chocolate;
+   
   }
   
+  
+
+  main section p:nth-child(1) {
+    background-color: #cee5d0;
+  }
+  
+  main section p:nth-child(2) {
+    background-color: #f3f0d7;
+  }
+  
+  main section p:nth-child(3) {
+    background-color: #d8b384;
+  }
+  
+  main section p:nth-child(4) {
+    background-color: #5e454b;
+  }
+
   footer {
     text-align: center;
     background: #222;
